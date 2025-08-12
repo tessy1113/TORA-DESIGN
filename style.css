@@ -211,6 +211,7 @@ h2 {
 
 .service-img {
   margin: 35px auto;
+  width: 100%;
 }
 
 .service-text {
@@ -236,6 +237,10 @@ h2 {
 
 .works-item {
   width: 329px;
+}
+
+.works-img {
+  width: 100%;
 }
 
 .works-tag {
@@ -379,6 +384,7 @@ h2 {
 
 .member-img {
   margin: 41px 35.7px 41px 40px;
+  width: 100%;
 }
 
 .member-info {
